@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header](/img/github-header-image.gif)
 
 <!--
 **rvln/rvln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
